@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aswinidutt95@gmail.com**
 
-- 📄 Know about my experiences [ashdjd](ashdjd)
+- 📄 Know about my experiences []()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
